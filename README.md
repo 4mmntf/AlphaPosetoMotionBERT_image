@@ -1,1 +1,2 @@
-# proj
+#　AlphaPoseで推定した骨格をMotionBertに流すやつ
+仮置き

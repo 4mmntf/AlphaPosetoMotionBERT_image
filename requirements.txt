@@ -1,0 +1,15 @@
+tensorboardX
+tqdm
+easydict
+prettytable
+opencv-python
+imageio-ffmpeg
+matplotlib
+numpy
+torch 
+torchvision 
+torchaudio 
+roma
+ipdb
+pytorch-metric-learning
+smplx[all]
