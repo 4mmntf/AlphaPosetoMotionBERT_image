@@ -1,2 +1,2 @@
-# AlphaPoseで推定した骨格をMotionBertに流すやつ
+# AlphaPoseで推定した骨格をMotionBERTに流すやつ
 仮置き
